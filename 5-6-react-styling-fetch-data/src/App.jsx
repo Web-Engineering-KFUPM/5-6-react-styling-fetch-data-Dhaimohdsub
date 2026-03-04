@@ -12,7 +12,7 @@ LAB SETUP INSTRUCTIONS
       cd 5-6-react-styling-fetch-data
 
 2. Install project dependencies:
-   Run either of these commands:
+   Run either of these commands:.
       npm i
       OR
       npm install
